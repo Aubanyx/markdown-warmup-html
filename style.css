@@ -1,0 +1,29 @@
+h1, h2, h4, h5, blockquote, p, a {
+    text-align: center;
+}
+
+img {
+    width: 15em;
+    border-radius: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table{
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+th, td{
+    border: 0.125em solid black;
+    padding: 0.7em;
+    text-align: center;
+}
+
+
+
+ul {
+    text-align: center;
+}
