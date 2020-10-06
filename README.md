@@ -30,17 +30,24 @@ It is this body that we forge every day.</p>
 <h2>Hobbies :</h2>
 
 <ul>
-<li>Movies :
-<ul><li>Silent Voice</li>
-<li>Tarzan</li>
-<li>Your Name</li></ul></li>
-<li>Series
-<ul><li>Sherlock</li>
-<li>Rick et Morty</li>
-<li>Cobra Kai</li></ul></li>
-<li>Musculation</li>
-<li>Video-games</li>
+    <li>Movies :
+        <ul>
+            <li>Silent Voice</li>
+            <li>Tarzan</li>
+            <li>Your Name</li>
+        </ul>
+    </li>
+            <li>Series
+        <ul>
+            <li>Sherlock</li>
+            <li>Rick et Morty</li>
+            <li>Cobra Kai</li>
+        </ul>
+            </li>
+    <li>Musculation</li>
+    <li>Video-games</li>
 </ul>
+
 
 <h4>You can always count on me when... you need help and for anything else...</h4>
 
