@@ -3,17 +3,29 @@
 <h2>Auban Labie</h2>
 
 <blockquote>
-  <p>In this world, the only thing that really belongs to us... <br />
- It is this body that we forge every day.</p>
+<p>In this world, the only thing that really belongs to us... <br />
+It is this body that we forge every day.</p>
 </blockquote>
 
 <img src="image.jpg" alt="image" title="" />
 
 <h4>I am a calm person but addicted to coffee.</h4>
 
-<p>| Birthday | Favorite color | Favorite food | Pineapple on pizza |
-| :------: | :------------: | :-----------: | :----------------: |
-| 30/05/1994 | Green | Routier/Mitraillette | Yes [] No [x] |</p>
+<table>
+    <tr>
+        <td>Birthday</td>
+        <td>Favorite color</td>
+        <td>Favorite food</td>
+        <td>Pineapple on pizza</td>
+    </tr>
+    <tr>
+        <td>30/05/1994</td>
+        <td>Green</td>
+        <td>Routier/Mitraillette</td>
+        <td>Yes <input type="checkbox"> No <input type="checkbox" checked></td>
+    </tr>
+</table>
+
 
 <h2>Hobbies :</h2>
 
@@ -38,5 +50,5 @@
 
 <h5>I was born.</h5>
 
-<p><a href="https://github.com/Aline-Daems/markdown-challenge/blob/main/README.md">&lt;&lt; previous</a> || Auban Labie || <a href="https://github.com/Achouffe666/marckdown-challenge/blob/main/README.md">next >></a></p>
+<p><a href="https://github.com/Aline-Daems/markdown-challenge/blob/main/README.md"><< previous</a> || Auban Labie || <a href="https://github.com/Achouffe666/marckdown-challenge/blob/main/README.md">next >></a></p>
 
