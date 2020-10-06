@@ -7,7 +7,7 @@
  It is this body that we forge every day.</p>
 </blockquote>
 
-<img src="photo.png" alt="image" title="" />
+<img src="image.jpg" alt="image" title="" />
 
 <h4>I am a calm person but addicted to coffee.</h4>
 
