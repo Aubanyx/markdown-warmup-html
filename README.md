@@ -22,7 +22,7 @@ It is this body that we forge every day.</p>
         <td>30/05/1994</td>
         <td>Green</td>
         <td>Routier/Mitraillette</td>
-        <td>Yes <input type="checkbox"> No <input type="checkbox" checked></td>
+        <td>Yes &#9744; No &#9746;</td>
     </tr>
 </table>
 
